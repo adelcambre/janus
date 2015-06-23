@@ -230,3 +230,6 @@
 [submodule "janus/vim/langs/tla"]
 	path = janus/vim/langs/tla
 	url = git@github.com:vim-scripts/TLA.git
+[submodule "janus/vim/tools/vim-gitgutter"]
+	path = janus/vim/tools/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter.git
